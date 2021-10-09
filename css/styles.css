@@ -1,0 +1,39 @@
+
+footer {
+    text-align: center;
+}
+
+#toplogo {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+}
+
+#mainimage {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+}
+
+#pagetitle {
+    text-align: center;
+}
+
+#pageheader {
+    text-align: center;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+th, td {
+    padding: 15px;
+  }
+
+tr:hover {background-color: #D6EEEE;}
+
